@@ -8,6 +8,13 @@
 - 📫 How to reach me **omarramy.e12@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+I am Omar Rami, a third-year Computer Science student at Al-Arish University. Throughout my academic journey, I discovered my true passion for web development, particularly backend development. My love for technology and desire to understand how systems work behind the scenes pushed me to dive deep into this field.
+
+I began by learning the fundamentals of web design, gaining skills in HTML, CSS, and JavaScript to build interactive and attractive user interfaces. However, what truly captivated me was the backend, where data processing and server interaction happen.
+
+Throughout this journey, I gained hands-on experience in building efficient, integrated systems without relying on traditional databases, which encouraged me to think outside the box and use innovative solutions.
+
+My current goal is to further develop my skills in backend development and become a professional web developer. I am continuously improving myself through learning and practical application, always seeking to explore new technologies and face greater challenges.
 <p align="left">
 <a href="https://linkedin.com/in/omar ramy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omar ramy" height="30" width="40" /></a>
 <a href="https://instagram.com/omar_____ramy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="omar_____ramy" height="30" width="40" /></a>
