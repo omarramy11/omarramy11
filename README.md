@@ -2,12 +2,9 @@
 <h3 align="center">A passionate Back-end developer from Egpyt</h3>
 
 - 🌱 I’m currently learning **nodeJs, MongoDB, API, ExpressJs**
-
-- 👨‍💻 All of my projects are available at [https://github.com/omarramy11?tab=repositories](https://github.com/omarramy11?tab=repositories)
-
+- 👨‍💻 All of my projects are available at [https://github.com/omarramy11?tab=repositories](https://github.com/omarramy11?tab=repositories
 - 📫 How to reach me **omarramy.e12@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 I am Omar Rami, a third-year Computer Science student at Al-Arish University. Throughout my academic journey, I discovered my true passion for web development, particularly backend development. My love for technology and desire to understand how systems work behind the scenes pushed me to dive deep into this field.
 
 I began by learning the fundamentals of web design, gaining skills in HTML, CSS, and JavaScript to build interactive and attractive user interfaces. However, what truly captivated me was the backend, where data processing and server interaction happen.
