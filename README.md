@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Omar Ramy
 ==================================================================================================================================
 
-⚙️ Backend developer
+⚙️ Backend developer - 💻 Software Engineer - CS Student
 --------------------
 
-Backend Developer | Computer Science Student
+| Computer Science Student
 
 I’m a passionate Backend Developer with a strong foundation in data structures, algorithms, and OOP, and hands-on experience in building web applications. My journey began in 2022 when I started learning C++ during my university studies, where I developed a deep understanding of core programming concepts.
 
