@@ -40,9 +40,9 @@ src="https://img.shields.io/github/followers/omarramy11?logo=github&style=for-th
 
 <b>My GitHub Stats</b>
 
-<!--
+
 <a href="http://www.github.com/omarramy11"><img src="https://github-readme-stats.vercel.app/api?username=omarramy11&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=000000&hide_border=true&show_icons=true" alt="omarramy11's GitHub stats" /></a>
--->
+
 
 <a href="http://www.github.com/omarramy11"><img src="https://github-readme-streak-stats.herokuapp.com/?user=omarramy11&stroke=ffffff&background=000000&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
