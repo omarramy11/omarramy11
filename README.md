@@ -40,7 +40,7 @@ Always learning, always coding. Let’s connect!
   </a> -->
   <a href="https://www.php.net/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" 
-         alt="PHP" title="PHP" width="36" height="36" />
+         alt="PHP" title="PHP" width="45" height="45" />
   </a>
 <!--   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" 
@@ -52,69 +52,69 @@ Always learning, always coding. Let’s connect!
   </a> -->
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" 
-         alt="TypeScript" title="TypeScript" width="36" height="36" />
+         alt="TypeScript" title="TypeScript" width="45" height="45" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" 
-         alt="JavaScript" title="JavaScript" width="36" height="36" />
+         alt="JavaScript" title="JavaScript" width="45" height="45" />
   </a>
 
   <!-- Web Development -->
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" 
-         alt="HTML5" title="HTML5" width="36" height="36" />
+         alt="HTML5" title="HTML5" width="45" height="45" />
   </a>
   <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" 
-         alt="CSS3" title="CSS3" width="36" height="36" />
+         alt="CSS3" title="CSS3" width="45" height="45" />
   </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" 
-         alt="TailwindCSS" title="TailwindCSS" width="36" height="36" />
+         alt="TailwindCSS" title="TailwindCSS" width="45" height="45" />
   </a>
   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" 
-         alt="Bootstrap" title="Bootstrap" width="36" height="36" />
+         alt="Bootstrap" title="Bootstrap" width="45" height="45" />
 
    </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" 
-       alt="React" title="React" width="36" height="36"/>
+       alt="React" title="React" width="45" height="45"/>
 </a>
   </a>
   <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" 
-         alt="Vite" title="Vite" width="36" height="36" />
+         alt="Vite" title="Vite" width="45" height="45" />
 
   </a>
   <a href="https://angular.io/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" 
-         alt="Angular" title="Angular" width="36" height="36" />
+         alt="Angular" title="Angular" width="45" height="45" />
 
 
   <!-- Backend -->
   <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" 
-         alt="NodeJS" title="NodeJS" width="36" height="36" />
+         alt="NodeJS" title="NodeJS" width="45" height="45" />
   </a>
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" 
-         alt="Express" title="Express" width="36" height="36" />
+         alt="Express" title="Express" width="45" height="45" />
   </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" 
-         alt="MongoDB" title="MongoDB" width="36" height="36" />
+         alt="MongoDB" title="MongoDB" width="45" height="45" />
 
 
     
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" 
-         alt="MySQL" title="MySQL" width="36" height="36" />
+         alt="MySQL" title="MySQL" width="45" height="45" />
   </a>
   <a href="https://laravel.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" 
-         alt="Laravel" title="Laravel" width="36" height="36" />
+         alt="Laravel" title="Laravel" width="45" height="45" />
   </a>
 
   <!-- Tools -->
