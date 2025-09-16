@@ -118,6 +118,7 @@ Always learning, always coding. Let’s connect!
   </a>
 
   <!-- Tools -->
+  <!--
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" 
          alt="Git" title="Git" width="36" height="36" />
@@ -138,8 +139,9 @@ Always learning, always coding. Let’s connect!
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" 
          alt="Wordpress" title="Wordpress" width="36" height="36" />
   </a>
+  -->
 
-  <!-- OS / DevOps -->
+  <!-- OS / DevOps 
   <a href="https://www.linux.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" 
          alt="Linux" title="Linux" width="36" height="36" />
@@ -152,6 +154,7 @@ Always learning, always coding. Let’s connect!
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" 
          alt="Docker" title="Docker" width="36" height="36" />
   </a>
+  -->
 
 </p>
 
