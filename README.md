@@ -27,7 +27,7 @@ Always learning, always coding. Let’s connect!
 * 💬  Ask me about Classified mission in progress... (I’m not just your average dev 🦸‍♂️)
 
 ### My Skills
-<p align="">
+<p align="left">
 
   <!-- Programming Languages -->
   <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
