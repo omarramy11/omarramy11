@@ -76,13 +76,6 @@ Always learning, always coding. Let’s connect!
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" 
          alt="Bootstrap" title="Bootstrap" width="36" height="36" />
 
-     </a>
-  <a href="https://React.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/reactjs-colored.svg" 
-         alt="React" title="React" width="36" height="36" />
-  </a>
-
-  
   </a>
   <a href="https://angular.io/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" 
