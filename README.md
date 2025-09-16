@@ -41,7 +41,7 @@ Always learning, always coding. Let’s connect!
   <a href="https://www.php.net/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" 
          alt="PHP" title="PHP" width="45" height="45" />
-  </a>
+  
 <!--   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" 
          alt="Python" title="Python" width="36" height="36" />
