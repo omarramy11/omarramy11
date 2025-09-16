@@ -81,20 +81,16 @@ Always learning, always coding. Let’s connect!
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" 
        alt="React" title="React" width="36" height="36"/>
 </a>
+  </a>
+  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" 
+         alt="Vite" title="Vite" width="36" height="36" />
 
   </a>
   <a href="https://angular.io/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" 
          alt="Angular" title="Angular" width="36" height="36" />
-  </a>
-  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" 
-         alt="Vite" title="Vite" width="36" height="36" />
-  </a>
-  <a href="https://jquery.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" 
-         alt="JQuery" title="JQuery" width="36" height="36" />
-  </a>
+
 
   <!-- Backend -->
   <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
