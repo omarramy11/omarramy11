@@ -33,23 +33,23 @@ Always learning, always coding. Let’s connect!
   <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" 
          alt="C++" title="C++" width="36" height="36" />
-  </a>
+<!--   </a>
   <a href="https://dart.dev/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" 
          alt="Dart" title="Dart" width="36" height="36" />
-  </a>
+  </a> -->
   <a href="https://www.php.net/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" 
          alt="PHP" title="PHP" width="36" height="36" />
   </a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+<!--   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" 
          alt="Python" title="Python" width="36" height="36" />
   </a>
   <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ruby-colored.svg" 
          alt="Ruby" title="Ruby" width="36" height="36" />
-  </a>
+  </a> -->
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" 
          alt="TypeScript" title="TypeScript" width="36" height="36" />
