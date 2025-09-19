@@ -123,39 +123,13 @@ Always learning, always coding. Let’s connect!
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" 
          alt="Git" title="Git" width="36" height="36" />
   </a>
-  <!--
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" 
-         alt="VS Code" title="VS Code" width="36" height="36" />
-  </a>
-  <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored-dark.svg" 
-         alt="XD" title="XD" width="36" height="36" />
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" 
-         alt="Figma" title="Figma" width="36" height="36" />
-  </a>
-  <a href="https://wordpress.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" 
-         alt="Wordpress" title="Wordpress" width="36" height="36" />
-  </a>
-  -->
-
-  <!-- OS / DevOps 
-  <a href="https://www.linux.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" 
-         alt="Linux" title="Linux" width="36" height="36" />
-  </a>
-  <a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" 
-         alt="Ubuntu" title="Ubuntu" width="36" height="36" />
+  
   </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" 
          alt="Docker" title="Docker" width="36" height="36" />
   </a>
-  -->
+
 
 </p>
 
