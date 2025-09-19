@@ -38,14 +38,7 @@ Always learning, always coding. Let’s connect!
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" 
          alt="PHP" title="PHP" width="45" height="45" />
   
-<!--   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" 
-         alt="Python" title="Python" width="36" height="36" />
-  </a>
-  <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ruby-colored.svg" 
-         alt="Ruby" title="Ruby" width="36" height="36" />
-  </a> -->
+
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" style="text-decoration:none;" >
       <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
   <img width="12"  />
