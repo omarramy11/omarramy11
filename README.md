@@ -130,20 +130,6 @@ Always learning, always coding. Let’s connect!
 src="https://img.shields.io/github/followers/omarramy11?logo=github&style=for-the-badge&color=6366f1&labelColor=000000" /></a>
 
 
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/https://dev.to/omar_ramy_52fe428a281e683" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/omar_ramy_52fe428a281e683" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/omar-ramy%f0%9f%87%b5%f0%9f%87%b8-7a0498282/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/omar-ramy%f0%9f%87%b5%f0%9f%87%b8-7a0498282/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/31277539/omar-ramy?tab=profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/31277539/omar-ramy?tab=profile" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/omar.ramy.602626" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/omar.ramy.602626" height="30" width="40" /></a>
-<a href="https://www.behance.net/https://www.behance.net/omarramy11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/omarramy11" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/omar_ramy22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/omar_ramy22" height="30" width="40" /></a>
-</p>
-
-
-
 <b>My GitHub Stats</b>
 
 
