@@ -52,7 +52,7 @@ Always learning, always coding. Let’s connect!
   </a> -->
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" style="text-decoration:none;" >
       <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
+  <img width="45"  />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" 
