@@ -51,8 +51,8 @@ Always learning, always coding. Let’s connect!
          alt="Ruby" title="Ruby" width="36" height="36" />
   </a> -->
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" style="text-decoration:none;" >
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" 
-         alt="TypeScript" title="TypeScript" width="45" height="45" />
+      <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img width="12" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" 
