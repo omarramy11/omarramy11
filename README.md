@@ -151,11 +151,6 @@ src="https://img.shields.io/github/followers/omarramy11?logo=github&style=for-th
   <img src="https://github-profile-trophy.vercel.app?username=omarramy11&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/omar_ramy22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/omar_ramy22" height="30" width="40" /></a>
 </p>
 
 
