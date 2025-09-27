@@ -54,9 +54,6 @@ Always learning, always coding. Let’s connect!
 
 
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/omarramy11/omarramy11/output/snake.svg" alt="Snake animation" />
 
 ###
 
