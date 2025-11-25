@@ -22,7 +22,7 @@ Always learning, always coding. Let’s connect!
 * 🌍  I'm based in Egypt
 * 🖥️  See my portfolio at [ABO\_RAMY](http://abo-ramy.vercel.app/)
 * ✉️  You can contact me at [omarramy.e12@gmail.com](mailto:omarramy.e12@gmail.com)
-* 🧠  I'm currently learning node.js - express.js - mongoDB - API
+* 🧠  I'm currently learning nodejs - nestjs
 * 👥  I'm looking to collaborate on E-commerce
 * 💬  Ask me about Classified mission in progress... (I’m not just your average dev 🦸‍♂️)
 
