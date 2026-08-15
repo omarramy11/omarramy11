@@ -110,6 +110,10 @@ Always learning, always coding. Let’s connect!
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" alt="Laravel" title="Laravel" width="36" height="36" />
   </a>
 
+  <a href="https://jestjs.io/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.simpleicons.org/jest" alt="Jest" title="Jest" width="36" height="36" />
+</a>
+
   <!-- DevOps & Tools -->
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" />
