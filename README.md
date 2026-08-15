@@ -131,10 +131,6 @@ Always learning, always coding. Let’s connect!
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kubernetes-colored.svg" alt="Kubernetes" title="Kubernetes" width="36" height="36" />
 </a>
 
-<a href="https://redis.io/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redis-colored.svg" alt="Redis" title="Redis" width="36" height="36" />
-</a>
-
 <a href="https://www.anthropic.com/claude-code" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/claude.svg" alt="Claude Code" title="Claude Code" width="36" height="36" />
 </a>
