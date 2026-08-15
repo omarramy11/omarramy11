@@ -143,6 +143,14 @@ Always learning, always coding. Let’s connect!
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/claude.svg" alt="Claude Code" title="Claude Code" width="36" height="36" />
 </a>
 
+<a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.simpleicons.org/apachekafka" alt="Apache Kafka" title="Apache Kafka" width="36" height="36" />
+</a>
+
+<a href="https://nginx.org/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.simpleicons.org/nginx" alt="Nginx" title="Nginx" width="36" height="36" />
+</a>
+
 </p>
 
 
