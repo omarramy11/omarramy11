@@ -105,6 +105,10 @@ Always learning, always coding. Let’s connect!
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postman-colored.svg" alt="Postman" title="REST APIs / Postman" width="36" height="36" />
 </a>
 
+<a href="https://jestjs.io/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jest-colored.svg" alt="Jest" title="Jest" width="36" height="36" />
+</a>
+
 
   <!-- DevOps & Tools -->
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
@@ -133,6 +137,9 @@ Always learning, always coding. Let’s connect!
 </a>
 <a href="https://www.anthropic.com/claude-code" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/claude.svg" alt="Claude Code" title="Claude Code" width="36" height="36" />
+</a>
+<a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/apachekafka-colored.svg" alt="Apache Kafka" title="Apache Kafka" width="36" height="36" />
 </a>
 </p>
 
