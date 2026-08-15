@@ -102,6 +102,10 @@ Always learning, always coding. Let’s connect!
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" />
   </a>
 
+  <a href="https://graphql.org/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.simpleicons.org/graphql" alt="GraphQL" title="GraphQL" width="36" height="36" />
+</a>
+
   <a href="https://www.php.net/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" alt="PHP" title="PHP" width="36" height="36" />
   </a>
