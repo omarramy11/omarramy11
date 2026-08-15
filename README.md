@@ -89,6 +89,10 @@ Always learning, always coding. Let’s connect!
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" title="MongoDB" width="36" height="36" />
   </a>
+
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.simpleicons.org/postman" alt="REST API / Postman" title="REST API" width="36" height="36" />
+</a>
   
   <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" alt="NestJS" title="NestJS" width="36" height="36" />
@@ -149,6 +153,10 @@ Always learning, always coding. Let’s connect!
 
 <a href="https://nginx.org/" target="_blank" rel="noreferrer">
   <img src="https://cdn.simpleicons.org/nginx" alt="Nginx" title="Nginx" width="36" height="36" />
+</a>
+
+<a href="https://about.gitlab.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.simpleicons.org/gitlab" alt="GitLab" title="GitLab" width="36" height="36" />
 </a>
 
 </p>
