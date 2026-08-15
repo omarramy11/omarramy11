@@ -101,10 +101,10 @@ Always learning, always coding. Let’s connect!
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" alt="Laravel" title="Laravel" width="36" height="36" />
   </a>
 
-  <!-- CMS -->
-  <a href="https://wordpress.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" alt="Wordpress" title="Wordpress" width="36" height="36" />
-  </a>
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postman-colored.svg" alt="Postman" title="REST APIs / Postman" width="36" height="36" />
+</a>
+
 
   <!-- DevOps & Tools -->
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
@@ -122,8 +122,17 @@ Always learning, always coding. Let’s connect!
   <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kubernetes-colored.svg" alt="Kubernetes" title="Kubernetes" width="36" height="36" />
 </a>
-<a href="https://github.com/features/actions" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/githubactions-colored.svg" alt="CI/CD" title="CI/CD" width="36" height="36" />
+<a href="https://redis.io/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redis-colored.svg" alt="Redis" title="Redis" width="36" height="36" />
+</a>
+<a href="https://about.gitlab.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gitlab-colored.svg" alt="GitLab" title="GitLab" width="36" height="36" />
+</a>
+<a href="https://nginx.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nginx-colored.svg" alt="Nginx" title="Nginx" width="36" height="36" />
+</a>
+<a href="https://www.anthropic.com/claude-code" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/claude.svg" alt="Claude Code" title="Claude Code" width="36" height="36" />
 </a>
 </p>
 
