@@ -122,6 +122,10 @@ Always learning, always coding. Let’s connect!
   <img src="https://cdn.simpleicons.org/jest" alt="Jest" title="Jest" width="36" height="36" />
 </a>
 
+<a href="https://modelcontextprotocol.io/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.simpleicons.org/modelcontextprotocol" alt="MCP" title="MCP" width="36" height="36" />
+</a>
+
   <!-- DevOps & Tools -->
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" />
