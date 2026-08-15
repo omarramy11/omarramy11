@@ -123,16 +123,16 @@ Always learning, always coding. Let’s connect!
 </a>
 
   <!-- DevOps & Tools -->
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" />
-  </a>
-  
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" />
   </a>
   
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" />
+  </a>
+
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" />
   </a>
 
   <a href="https://redis.io/" target="_blank" rel="noreferrer">
